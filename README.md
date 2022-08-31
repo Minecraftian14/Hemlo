@@ -1,2 +1,0 @@
-# Hemlo
-Delete this repo
